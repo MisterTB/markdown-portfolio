@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+## A List of My Favorite Things
+- Cheesecake
+- Back to the Future
+- Philly Cheesesteaks
