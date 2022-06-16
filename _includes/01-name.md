@@ -1,2 +1,2 @@
-# Thaddeus Brown, IT Professional
-###### Varied IT interests and Experience. Actively pursuing knowledge, skillset in Systems Admin, Cloud, DevOps and Scripting with a focus on opensource technologies.
+# Thaddeus Brown, Systems Administrator
+###### IT professional with varied IT interests and experience. Actively pursuing knowledge, skillset and opportunites in Systems Admin, Cloud, DevOps and Scripting with a focus on open source technologies/toolsets.
